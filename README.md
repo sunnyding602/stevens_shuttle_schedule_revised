@@ -1,4 +1,4 @@
-# stevens_shuttle_schedule_revised
+# stevens shuttle schedule revised
 
 
 *logo_sss.jpg  the logo of the Schedule
